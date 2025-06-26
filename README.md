@@ -164,5 +164,5 @@ Think of it like a basic blockchain node that:
 ## 📬 Contact
 
 Author: Anij Mehta, Kewal Thacker, Piyush Verma<br>
-GitHub: @anij-mehta<br>
-LinkedIn: linkedin.com/in/anij-mehta
+🔗 [GitHub](https://github.com/anij-mehta)<br>
+🔗 [LinkedIn](www.linkedin.com/in/anij-mehta)
