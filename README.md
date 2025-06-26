@@ -12,12 +12,13 @@ This project simulates a **decentralized system for verifying financial transact
 - [Database Design](#database-design)
 - [Setup Instructions](#setup-instructions)
 - [How It Works](#how-it-works)
-- [Future Enhancements](#future-enhancements)
 - [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
 
 ---
 
+#about-the-project
 ## 🧠 About the Project
 
 A **proof-of-concept system** to demonstrate transaction validation and data integrity using:
@@ -30,6 +31,7 @@ This project is perfect for understanding how database features can simulate blo
 
 ---
 
+#tech-stack
 ## 🧰 Tech Stack
 
 | Layer      | Technology               |
@@ -42,6 +44,7 @@ This project is perfect for understanding how database features can simulate blo
 
 ---
 
+#core-components
 ## 🧩 Core Components
 
 | File/Folder        | Purpose |
@@ -56,6 +59,7 @@ This project is perfect for understanding how database features can simulate blo
 
 ---
 
+#database-design
 ## 🗃️ Database Design
 
 The system includes:
@@ -73,6 +77,7 @@ The system includes:
 
 ---
 
+#setup-instructions
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -112,6 +117,8 @@ streamlit run app.py
 ```
 
 You’ll see transaction logs and verification results in the console.
+
+#how-it-works
 🧪 How It Works
 
     User initiates a transaction using app.py.
@@ -140,6 +147,7 @@ Think of it like a basic blockchain node that:
 
     Logs — without manual intervention
 
+#screenshots
 📸 Screenshots
 
 ![Home](assets/home.png)
@@ -150,7 +158,7 @@ Think of it like a basic blockchain node that:
 
 ![Dashboard](assets/dashboard.png)
 
-
+#future-enhancements
 🔮 Future Enhancements
 
     📊 Add real-time transaction visualizer (blockchain-style ledger)
@@ -161,6 +169,7 @@ Think of it like a basic blockchain node that:
 
     📩 Email or SMS confirmation on successful transaction
 
+#contact
 📬 Contact
 
 Author: Anij Mehta, Kewal Thacker, Piyush Verma<br>
