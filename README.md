@@ -142,6 +142,13 @@ Think of it like a basic blockchain node that:
 
 📸 Screenshots
 
+![Home](assets/home.png)
+
+![Login Window](assets/login.png)
+
+![Register Window](assets/register.png)
+
+![Dashboard](assets/dashboard.png)
 
 
 🔮 Future Enhancements
