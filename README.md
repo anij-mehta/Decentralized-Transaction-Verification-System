@@ -14,7 +14,6 @@ This project simulates a **decentralized system for verifying financial transact
 - [How It Works](#how-it-works)
 - [Future Enhancements](#future-enhancements)
 - [Screenshots](#screenshots)
-- [License](#license)
 - [Contact](#contact)
 
 ---
