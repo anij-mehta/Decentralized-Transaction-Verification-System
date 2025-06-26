@@ -109,7 +109,7 @@ pip install mysql-connector-python
 
 ```bash
 cd backend
-python app.py
+streamlit run app.py
 ```
 
 You’ll see transaction logs and verification results in the console.
@@ -147,8 +147,6 @@ Think of it like a basic blockchain node that:
 
 🔮 Future Enhancements
 
-    🌐 Build a web UI using Flask or Streamlit
-
     📊 Add real-time transaction visualizer (blockchain-style ledger)
 
     🔏 Implement hashing to simulate blocks
@@ -157,12 +155,8 @@ Think of it like a basic blockchain node that:
 
     📩 Email or SMS confirmation on successful transaction
 
-📜 License
-
-This project is licensed under the MIT License.
-Feel free to use, fork, and improve!
 📬 Contact
 
-Author: Anij Mehta, Kewal Thacker, Piyush Verma
-GitHub: @anij-mehta
+Author: Anij Mehta, Kewal Thacker, Piyush Verma<br>
+GitHub: @anij-mehta<br>
 LinkedIn: linkedin.com/in/anij-mehta
