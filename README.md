@@ -165,4 +165,4 @@ Think of it like a basic blockchain node that:
 
 Author: Anij Mehta, Kewal Thacker, Piyush Verma<br>
 🔗 [GitHub](https://github.com/anij-mehta)<br>
-🔗 [LinkedIn](www.linkedin.com/in/anij-mehta)
+🔗 [LinkedIn](https://www.linkedin.com/in/anij-mehta)
