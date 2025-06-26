@@ -113,7 +113,7 @@ streamlit run app.py
 
 You’ll see transaction logs and verification results in the console.
 
-🧪 How It Works
+## 🧪 How It Works
 
     User initiates a transaction using app.py.
 
@@ -141,7 +141,7 @@ Think of it like a basic blockchain node that:
 
     Logs — without manual intervention
 
-📸 Screenshots
+## 📸 Screenshots
 
 ![Home](assets/home.png)
 
@@ -151,7 +151,7 @@ Think of it like a basic blockchain node that:
 
 ![Dashboard](assets/dashboard.png)
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
     📊 Add real-time transaction visualizer (blockchain-style ledger)
 
@@ -161,7 +161,7 @@ Think of it like a basic blockchain node that:
 
     📩 Email or SMS confirmation on successful transaction
 
-📬 Contact
+## 📬 Contact
 
 Author: Anij Mehta, Kewal Thacker, Piyush Verma<br>
 GitHub: @anij-mehta<br>
